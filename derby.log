@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Thu Oct 06 17:48:37 MSK 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.1.1 - (1458268): instance a816c00e-0183-adc5-11df-000004a81448 
+on database directory C:\VLAD\java\exampleJDBC\db with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+Loaded from file:/C:/VLAD/java/exampleJDBC/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=17.0.4.1+1-LTS-2
+user.dir=C:\VLAD\java\exampleJDBC
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
